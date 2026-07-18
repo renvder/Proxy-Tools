@@ -36,7 +36,9 @@ dns:
       - '+.google.com'
       - '+.facebook.com'
       - '+.youtube.com'
-  fallback: []
+  fallback:
+    - 'https://1.1.1.1/dns-query'
+    - 'https://8.8.8.8/dns-query'
   proxy-server-nameserver:
     - 'https://doh.pub/dns-query'
     - 'https://dns.alidns.com/dns-query'
