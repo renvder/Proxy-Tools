@@ -11,7 +11,7 @@ Shadowrocket - [Download](https://apps.apple.com/app/shadowrocket)
 ## DNS 防泄漏  
 
 Shadowrocket - < [Config](https://raw.githubusercontent.com/renvder/Proxy-Tools/refs/heads/main/Shadowrocket/Config.conf) >  
-Clash Verge - < [分流](https://github.com/renvder/Proxy-Tools/blob/main/Clash%20Verge/Rules%20%3C%20%E5%88%86%E6%B5%81%E8%A6%8F%E5%89%87%20%3E) > < [覆寫](https://github.com/renvder/Proxy-Tools/blob/main/Clash%20Verge/Fake-IP%20Filter%20%3C%20DNS%20%E8%A6%86%E5%AF%AB%20%3E) >  
+Clash Verge - < [Rules](https://github.com/renvder/Proxy-Tools/blob/main/Clash%20Verge/Rules%20%3C%20%E5%88%86%E6%B5%81%E8%A6%8F%E5%89%87%20%3E) > < [Overwrite](https://github.com/renvder/Proxy-Tools/blob/main/Clash%20Verge/Fake-IP%20Filter%20%3C%20DNS%20%E8%A6%86%E5%AF%AB%20%3E) >  
 
 ---  
 
