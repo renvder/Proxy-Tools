@@ -1,5 +1,5 @@
 ## Proxy Clients :
-#### - 客戶端下載 -
+#### 📥 客戶端下載
 
 &nbsp;
 
@@ -13,7 +13,7 @@ Shadowrocket - [Download](https://apps.apple.com/app/shadowrocket)
 ---  
   
 ## Fix DNS Leaks :
-#### - 防 DNS 洩漏 -
+#### 🛡️ DNS 洩漏防護
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Chromium - < [EN](https://github.com/renvder/Proxy_Tools/blob/main/Browser_Anti-
 ---  
 
 ## Browser Anti-Tracking :
-#### - 瀏覽器反追蹤 -
+#### 🕵️ 瀏覽器隱私
 
 &nbsp;
 
