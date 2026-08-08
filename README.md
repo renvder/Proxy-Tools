@@ -24,7 +24,7 @@ Chromium - < [EN](https://github.com/renvder/Proxy_Tools/blob/main/Browser_Anti-
 ---  
 
 ## Browser Anti-Tracking :
-#### 🕵️ 瀏覽器隱私
+#### 🕵️ 瀏覽器隱私反追蹤
 
 <br>
 
